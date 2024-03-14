@@ -1,7 +1,7 @@
 ![MasterHead](https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-07-Web-App-Developer.png)
 
-<h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
-<h3 align="center">A passionate MERN Stack from Pakistan</h3>
+<h1 align="center">Assalam U Alikum 👋, I'm Ahmad Raza</h1>
+<h3 align="center">A MERN Stack Developer and BSCS Student from Lahore,Pakistan</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://www.reactiongifs.us/wp-content/uploads/2018/06/giphy-2-1.gif" > -->
 
 <ul>
@@ -49,4 +49,4 @@
   
   </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmujtaba99&show_icons=true&locale=en&layout=compact" alt="ahmedmujtaba99" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadraza1604&show_icons=true&locale=en&layout=compact" alt="ahmadraza1604" /></p>
