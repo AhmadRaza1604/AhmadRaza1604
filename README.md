@@ -1,7 +1,7 @@
 <h1 >Hi 👋, I'm Ahmad Raza</h1>
 <h4 >A passionate Web Developer and I am passionate about leveraging technology to create impactful solutions for real-world problems.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmadRaza1604&label=Profile%20views&color=04AA6D&style=flat" alt="kanwaradnan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmadRaza1604&label=Profile%20views&color=04AA6D&style=flat" alt="Ahmad" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
