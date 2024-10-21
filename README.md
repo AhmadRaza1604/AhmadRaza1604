@@ -1,7 +1,7 @@
 <h1 >Hi 👋, I'm Ahmad Raza</h1>
 <h4 >A passionate Web Developer and I am passionate about leveraging technology to create impactful solutions for real-world problems.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kanwaradnan&label=Profile%20views&color=0e75b6&style=flat" alt="kanwaradnan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmadRaza1604&label=Profile%20views&color=04AA6D&style=flat" alt="kanwaradnan" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -71,9 +71,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadRaza1604&hide_title=false&hide_rank=false&show_icons=true&layout=compact&card_width=320&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadRaza1604&hide_title=false&hide_rank=false&show_icons=true&card_width=320&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadRaza1604&locale=en&hide_title=false&layout=compact&card_width=320&include_all_commits=true&count_private=true&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadRaza1604&locale=en&hide_title=false&theme=gotham&count_private=true&disable_animations=false&hide_border=false" alt="Ahmad" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadRaza1604&locale=en&hide_title=false&theme=gotham&include_all_commits=true&count_private=true&disable_animations=false&hide_border=false" alt="Ahmad" /></p>
 </div>
 
 ###
